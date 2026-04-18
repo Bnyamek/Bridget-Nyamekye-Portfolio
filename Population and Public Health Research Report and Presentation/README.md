@@ -203,17 +203,6 @@ As environmental factors (climate change, vector expansion) and societal factors
 
 ---
 
-## Personal Contributions
-
-**Bridget Nyamekye** (co-author with Moses Nyirongo):
-- Co-developed the research framing and central research question focused on the U.S. hospitalization evidence gap
-- Contributed to the literature synthesis across epidemiology, burden-of-disease, and U.S.-specific dengue data sources
-- Analyzed surveillance system limitations and ICD-10 administrative data challenges as they relate to dengue epidemiology
-- Identified and articulated opportunities for future research integrating health informatics tools (predictive analytics, real-time monitoring) into dengue surveillance
-- Co-authored and delivered the full research presentation
-
----
-
 ## Authors
 
 **Bridget Nyamekye & Moses Nyirongo**
